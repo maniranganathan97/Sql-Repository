@@ -5,3 +5,4 @@ order by manager
 
 -- Staffs table has the column names like id,name ,phone and manager id
 -- the above self join will be an op of the employee and their respective manager
+--commit 1 test
